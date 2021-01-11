@@ -1,0 +1,18 @@
+.headerContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  height: 6rem;
+
+  border-bottom: solid 2px black;
+}
+
+.input {
+  outline: none;
+
+  width: 20rem;
+
+  border: none;
+  border-bottom: solid 1px grey;
+}
